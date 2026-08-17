@@ -7,7 +7,7 @@ My semesterZero learning journey portfolio.
 * **Department:** BE Computer science and engineering(cyber security)
 * **College name:** Rathinam Techincal Campus
 
-  ## About Me:
-  * **Career Goal:** Ethical hacker,Red teamer
-  * **Favourite Technology:** Python,c
-  * **Interesting fact:** I am entirely self-taught at mandala art.
+## About Me:
+* **Career Goal:** Ethical hacker,Red teamer
+* **Favourite Technology:** Python,c
+* **Interesting fact:** I am entirely self-taught at mandala art.
