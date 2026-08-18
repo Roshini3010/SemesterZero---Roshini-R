@@ -13,4 +13,4 @@ My semesterZero learning journey portfolio.
 * **Interesting fact:** I am entirely self-taught at mandala art.
 
 
-## "I successfully completed my first GitHub respository"
+## "I successfully completed my first GitHub repository."
